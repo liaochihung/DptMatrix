@@ -1,0 +1,7 @@
+{
+  "name": "Dot Matrix",
+  "description": "A sophisticated LED dot matrix simulator that transforms text and images into digital light displays with customizable shapes, colors, and motion effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
