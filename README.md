@@ -2,19 +2,18 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Dot Matrix Pro
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1IHK2TlW6mo0C70EQMFTJ3sUt3RbTSC_5
+A retro LED dot-matrix display simulator. Converts text and images into pixelated LED matrix outputs with real-time animation effects, custom typography, and export to SVG/GIF.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:**  Node.js, pnpm
 
 1. Install dependencies:
    `pnpm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+2. Copy `.env.example` to `.env.local` and set your `GEMINI_API_KEY`:
+   `cp .env.example .env.local`
 3. Run the app:
    `pnpm run dev`
 4. Open [http://localhost:3010](http://localhost:3010) in your browser
