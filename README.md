@@ -19,4 +19,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1IHK2TlW6mo0C70EQMFTJ3s
    `pnpm run dev`
 4. Open [http://localhost:3010](http://localhost:3010) in your browser
 
-> 📸 See [assets/screenshot.png](assets/screenshot.png) for a screenshot of the app UI.
+<div align="center">
+  <img src="assets/screenshot.png" alt="Dot Matrix Pro 截圖" width="800">
+  <p><em>Dot Matrix Pro 應用介面</em></p>
+</div>
